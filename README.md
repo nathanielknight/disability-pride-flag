@@ -4,7 +4,7 @@ This is a program for generating an SVG image of the [Disability Pride Flag].
 
 It looks like this:
 
-![The disability pride flag](./img/DisabilityPrideFlag.svg)
+![The disability pride flag](./DisabilityPrideFlag.svg)
 
 The flag was originally [designed by Ann Magill] and is released under
 the [CC0 1.0 Universal] license (i.e. released to the public domain).
